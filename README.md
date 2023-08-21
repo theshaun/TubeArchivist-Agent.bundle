@@ -5,6 +5,7 @@ It expects folders and file names to be the default format from Tube Archivist (
 
 Issues:
  - Currently it only supports channels, playlists may be added later.
+ - Episode number is a little meddled up based on how it is fed from `Absolute Series Scanner`
  - Episode ordering is all over the place
 
 Installation
@@ -33,6 +34,7 @@ Plex main folder location could be one of:
     * '/raid0/data/PLEX_CONFIG/Plex Media Server/'                               # Thecus Plex community
 
 To obtain the code:
+1. Download and install https://github.com/ZeroQI/Absolute-Series-Scanner (this dependency may change later)
 1. Download the Zip file: https://github.com/theshaun/TubeArchivist-Agent.bundle/archive/refs/heads/master.zip
 1. Unpack the downloaded Zip and rename the contents as `TubeArchivist-Agent.bundle` (remove `-master`)
 1. Place it inside `Plug-ins` folder
