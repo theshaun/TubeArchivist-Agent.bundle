@@ -49,4 +49,4 @@ To enable for Library:
 History
 =======
 
-Based roughly off initially from [@ZeroQI]'s `YouTube-Agent.bundle` agent.
+Based code structure from [@ZeroQI]'s `YouTube-Agent.bundle` agent.
