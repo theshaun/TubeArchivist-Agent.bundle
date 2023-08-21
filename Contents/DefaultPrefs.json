@@ -1,0 +1,4 @@
+[
+  { "id":"TubeArchivist_url", "label":"Tube Archivist URL", "type":"text", "default":""},
+  { "id":"TubeArchivist_api_key", "label":"Tube Archivist API Key", "type":"text", "default":""},
+]
