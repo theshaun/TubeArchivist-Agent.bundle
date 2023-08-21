@@ -3,9 +3,10 @@
 This is a simple Plex Agent for showing videos downloaded via Tube Archivist in Plex.
 It expects folders and file names to be the default format from Tube Archivist (raw identifiers)
 
-Currently it only supports channels, playlists may be added later.
-
-Episode number is a little meddled up based on how it is fed from `Absolute Series Scanner`
+Issues:
+ - Currently it only supports channels, playlists may be added later.
+ - Episode number is a little meddled up based on how it is fed from `Absolute Series Scanner`
+ - Episode ordering is all over the place
 
 Installation
 ============
